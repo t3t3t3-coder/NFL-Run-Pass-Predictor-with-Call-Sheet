@@ -1,4 +1,4 @@
-# Capstone Project
+# NFL Capstone Project
 
 ## Can a Defense Predict Run vs. Pass Before the Snap? Final Report
 
