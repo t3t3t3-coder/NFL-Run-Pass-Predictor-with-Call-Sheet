@@ -48,7 +48,7 @@ Two 2025 datasets from `nflreadpy`, joined on `game_id` + `play_id`:
 
 Down & distance shows that the data can separate runs from passes. 1st down is a coin flip, while 3rd & 4+ is over 90% pass:
 
-![Run/pass % by down & distance](images/run_pass_by_down_distance.png)
+![Run/pass % by down & distance](down_distance.jpg)
 
 ### 4. Data Preprocessing/Preparation
 
